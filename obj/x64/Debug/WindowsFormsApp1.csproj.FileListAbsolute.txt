@@ -1,0 +1,15 @@
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\INGENIERO POL\Documents\Poryectos visual\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
